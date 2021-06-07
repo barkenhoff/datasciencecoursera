@@ -9,5 +9,7 @@
 * [Оценка платежеспособности заемщиков](https://nbviewer.jupyter.org/github/lidiamark/data_analytics/blob/master/Project_1_Credits_v2_0.ipynb) 
 * [Анализ рынка компьютерных игр: 2012-2016](https://nbviewer.jupyter.org/github/lidiamark/data_analytics/blob/master/project4_computer_games_final.ipynb) 
   * <b>Библиотеки Python</b>: scipy, matplotlib, seaborn
+* [Исследование маркетинговых расходов Афиши](https://nbviewer.jupyter.org/github/lidiamark/data_analytics/blob/master/project6_Yandex.Afisha.ipynb)
+  * <b>Библиотеки Python</b>: pandas, numpy, seaborn, matplotlib
 * [Анализ ресторанного бизнеса](https://nbviewer.jupyter.org/github/lidiamark/data_analytics/blob/master/project8_moscow_cafe.ipynb)
   * <b>Библиотеки Python</b>: geocoder, folium, seaborn, plotly express
